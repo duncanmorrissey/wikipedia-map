@@ -5,11 +5,13 @@ This is a simple web application for querying links on wikipedia pages. The user
 Getting Started
 
 1) Open the WikipediaMap.sln project in Visual Studio
+
 2) Navigate to the Startup.cs class
+
 3) Run the application in Google Chrome
+
 4) Submit a word and see what pages link
 
-----
 Alternatively - the app uses OWIN.Nancy hosting and can be run from IIS.
 
 Authors:
@@ -19,5 +21,6 @@ License:
 This project is licensed under the MIT License
 
 Acknowledgments:
-https://gist.github.com/HermanSontrop/8228664
+https://gist.github.com/HermanSontrop/8228664 -->base for my TidyTree code
+
 http://luke.deentaylor.com/wikipedia/ --> inspiration for the project
