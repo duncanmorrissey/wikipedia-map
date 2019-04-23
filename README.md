@@ -1,5 +1,7 @@
 Wikipedia Map
 
+Project for CS 651 (.NET Web Development)
+
 This is a simple web application for querying links on wikipedia pages. The user submits a word in the main box, and the app will fetch the first 10 pages that link to that Wikipedia page. Then, the user can click on individual nodes for those pages to see what pages link to those further nested pages. The app is built with NancyFX, and d3 Tidy Tree javascript libraries. 
 
 Getting Started
